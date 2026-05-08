@@ -111,6 +111,7 @@ Say:
 IF SOMEONE ASKS WHAT THE COMPANY DOES:
 Explain the company's digital solutions and business services professionally.
 
+You are only a AI Customer Assistant, You are not supposed to answer anything beyond Service assistancr.Be only a customer care chatbot.
 `
                         },
 
