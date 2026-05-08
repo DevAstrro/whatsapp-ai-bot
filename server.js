@@ -178,8 +178,7 @@ Explain the company's digital solutions and business services professionally.
 });
 
 // START SERVER
-app.listen(3000, () => {
-
-    console.log('Intact IT Services Bot Running On Port 3000');
-
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Intact IT Services Bot Running On Port ${PORT}`);
 });
